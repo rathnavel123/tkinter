@@ -18,9 +18,17 @@ This Tkinter-based Text-to-Speech application allows users to convert text into 
 - pyttsx3
 - Pillow (for image handling)
 
-## Installation
+## Code Explanation
 
-1. **Clone the repository:**
+- Initialization: Sets up the Tkinter window and initializes the pyttsx3 engine.
+- speaknow Function: Retrieves the text, selected voice, and speed, and then converts the text to speech.
+- download Function: Saves the spoken text as an MP3 file to the user-selected directory.
+- GUI Elements: Uses Tkinter widgets such as Label, Text, Combobox, and Button to create the user interface.
 
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
+## Acknowledgements
+
+ **Tkinter**: Python's standard GUI library.
+ **pyttsx3**: Python library for text-to-speech conversion.
+ **Pillow**: Python Imaging Library fork for handling images.
+
+   
