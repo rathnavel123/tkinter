@@ -19,10 +19,10 @@ This Tkinter-based Text-to-Speech application allows users to convert text into 
 
 ## Code Explanation
 
-- Initialization: Sets up the Tkinter window and initializes the pyttsx3 engine.
-- speaknow Function: Retrieves the text, selected voice, and speed, and then converts the text to speech.
-- download Function: Saves the spoken text as an MP3 file to the user-selected directory.
-- GUI Elements: Uses Tkinter widgets such as Label, Text, Combobox, and Button to create the user interface.
+- **Initialization**: Sets up the Tkinter window and initializes the pyttsx3 engine.
+- **speaknow Function**: Retrieves the text, selected voice, and speed, and then converts the text to speech.
+- **download Function**: Saves the spoken text as an MP3 file to the user-selected directory.
+- **GUI Elements**: Uses Tkinter widgets such as Label, Text, Combobox, and Button to create the user interface.
 
 ## Acknowledgements
 
