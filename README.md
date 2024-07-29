@@ -16,7 +16,6 @@ This Tkinter-based Text-to-Speech application allows users to convert text into 
 - Python 3.x
 - Tkinter (usually included with Python)
 - pyttsx3
-- Pillow (for image handling)
 
 ## Code Explanation
 
