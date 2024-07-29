@@ -1,4 +1,4 @@
 # tkinter
 ## text to speech converter 
  <br>
-*Download* 2 images from online to show it while running
+Download 2 images and put it in your folder 
