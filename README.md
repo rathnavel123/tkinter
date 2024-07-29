@@ -27,8 +27,8 @@ This Tkinter-based Text-to-Speech application allows users to convert text into 
 
 ## Acknowledgements
 
- **Tkinter**: Python's standard GUI library./n
- **pyttsx3**: Python library for text-to-speech conversion./n
- **Pillow**: Python Imaging Library fork for handling images.
+- **Tkinter**: Python's standard GUI library.
+- **pyttsx3**: Python library for text-to-speech conversion.
+- **Pillow**: Python Imaging Library fork for handling images.
 
    
