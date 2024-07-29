@@ -1,4 +1,4 @@
-# Text to Speech Application
+# Text to Speech GUI
 
 ## Overview
 
